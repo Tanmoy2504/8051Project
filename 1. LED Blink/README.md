@@ -5,7 +5,7 @@ In order to load the project, double click on LED_Blink.uvproj . It should autom
 
 >**My Custom Settings**  
 
->**[Device]**
+>**[Device]**  
 >  Vendor  : Microchip  
 >  Device  : AT89S51  
 >  Toolset : C51  
