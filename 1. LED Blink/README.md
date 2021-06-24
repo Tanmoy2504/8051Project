@@ -22,8 +22,8 @@ In order to load the project, double click on LED_Blink.uvproj . It should autom
 >**[Output]**  
 >  Name of Executable : LED_Blink  
 >  Create Executable  
->    |_ Debug Information : No  
->    |_ Browse Information : Yes  
->    |_ Create HEX File : Yes  
->         |_ Hex Format : HEX-80   
+>  Debug Information : No  
+>  Browse Information : Yes  
+>  Create HEX File : Yes  
+>  Hex Format : HEX-80   
   
