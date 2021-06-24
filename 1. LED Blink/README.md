@@ -3,7 +3,7 @@ Project to make LED Blink using 8051 Microcontroller
 In order to load the project, double click on LED_Blink.uvproj . It should automatically launch uVision IDE with required files
 
 
->My Custom Settings  
+>**My Custom Settings**  
 
 >**[Device]**
 >  Vendor  : Microchip  
