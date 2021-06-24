@@ -4,14 +4,14 @@ In order to load the project, double click on LED_Blink.uvproj . It should autom
 
 
 >My Custom Settings  
->  
+
 >**[Device]**
 >  Vendor  : Microchip  
 >  Device  : AT89S51  
 >  Toolset : C51  
 >  Use Extended Linker (LX51) instead of BL51   : Yes  
 >  Use Extended Assembler (AX51) instead of A51 : Yes  
->  
+  
 >**[Target]**  
 >  Xtal(MHz) : 12.0  
 >  Memory Model  : Small  
