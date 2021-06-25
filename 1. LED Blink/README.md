@@ -1,6 +1,6 @@
 Project to make LED Blink using 8051 Microcontroller
 
-In order to load the project, double click on LED_Blink.uvproj . It should automatically launch uVision IDE with required files
+In order to load the project, double click on LED_Blink.uvproj . It should automatically launch uVision IDE with required files.  
 The 1 Second timer code is used from EngineersGarage.com . Please Visit below links to find the indepth explaination as this requires knowledge of Hardware Timer inside 8051.
 https://www.engineersgarage.com/how-to-generate-one-second-delay-with-8051-timers/
 
