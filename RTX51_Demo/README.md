@@ -2,6 +2,6 @@ RTX-51 Tiny is **Propetiary** Real Time Operating System (RTOS) for the MCS-51 a
 
 A Real-Time Operating System (RTOS) is an operating system (OS) intended to serve real-time applications that process data as it comes in. Processing must be done within the defined constraints or the system will fail it's objective.
 
-RTX51 Tiny programs require only that you include a special header file and link the RTX51 Tiny library into your program. Despite being "Royalty-Free", it is only available with Licenced Version of **PK51 Professional Developer's Kit**. This Professional kit contains all other necessary headers, symbols and files. 
+RTX51 Tiny programs require only that you include a special header file and link the RTX51 Tiny library into your program. Despite being "Royalty-Free", it is only available with Licenced Version of **PK51 Professional Developer's Kit**. This Professional kit contains all other necessary headers, symbols and files.
 
 Due to above mentioned reason, this code cannot be used with SDCC (Small Device C Compiler). You can alternatively look for FreeRTOS Port of 8051 which is compatible with SDCC.
